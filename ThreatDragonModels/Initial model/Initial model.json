@@ -5,7 +5,11 @@
     "description": "Initial model"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "msl-loto"
+      }
+    ],
     "diagrams": [
       {
         "title": "Start",
